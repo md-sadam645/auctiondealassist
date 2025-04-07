@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+.property-view-ul,.property-view-ul li{
+    padding:0px;
+    margin:0px;
+}
+
+.property-view-ul li{
+    list-style:none;
+    width:100%;
+
+}
+
+.pro-title{
+    color:#55555A;
+    font-size:14px;
+    text-transform:capitalize;
+}
+
+.pro-value{
+    font-size:14px;
+    text-transform:uppercase;
+}
