@@ -58,7 +58,7 @@
     <!---Jquery cdn-->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
     <!---Google maps api-->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC6w-fH0j4NGMEXB9i60p2SQHtFbVsdWtI&libraries=places&callback=initMap"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=addsecrectkey&libraries=places&callback=initMap"></script>
     <!---Autocomplete location search-->
     <script type="text/javascript">
         $(document).ready(function(){
